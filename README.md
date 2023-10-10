@@ -1,5 +1,3 @@
-# guidelines
-
 # Headers
 
 ```
