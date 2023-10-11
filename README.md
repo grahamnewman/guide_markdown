@@ -1,6 +1,6 @@
-# IDE style guide
-Initial commit 11 October
 ## Method and style of writing
+Initial commit 11 October
+
 - Concrete and simple. 
 - Short sentences.
 - Use short common words of the English language that everybody knows.
