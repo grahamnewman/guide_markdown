@@ -59,5 +59,10 @@ An exclamation in an email should only be used if there’s a birth, a promotion
 
 1. British English, not American English with the exception of center, not centre. There’s no need to be too puritanical about this.
 1. We follow The Economist Style Guide for punctuation and grammar. 
-1. All copy adheres to the 4C’s rule. Our writing is: 
+1. All copy adheres to the 4C’s rule. Our writing is:
+- Clear. 
+- Concise. 
+- Credible. 
+- Compelling.
+
 
