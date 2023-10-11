@@ -42,6 +42,13 @@ Originality is the premium. Come up with headlines and captions that are origina
 
 Write to make your reader smile.
 
+Make the style distinct.
+
+We do not use the Oxford comma unless it clears up some ambiguity. The less punctuation the better. For example:
+**Without Oxford comma**: “Her favourite foods were chocolate, marshmallows, cake and chicken.”
+**With Oxford comma**: “Her favourite foods were chocolate, marshmallows, cake, and chicken.”
+
+Break any of these rules rather than do anything ugly or unclear.
 
 
 
