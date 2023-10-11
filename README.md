@@ -1,4 +1,4 @@
-## Method and style of writing
+## Archanawat style guide | writing
 Initial commit 11 October
 
 - Concrete and simple. 
