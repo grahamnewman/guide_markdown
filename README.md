@@ -28,6 +28,20 @@ Avoid the language of academics. Use ordinary speech.
 
 Full stops and short sentences. Avoid semicolons at all costs.
 
+Avoid hopefully, prestigious, iconic, get, key, major. They are overused.
+
+Don't be formulaic with writing style. Be original and clear.
+
+Don't use phrasings of the industry insiders and the overall in-group jargon.
+
+Simplify things all the time.
+
+Try to avoid starting a sentence with yet or but.
+
+Originality is the premium. Come up with headlines and captions that are original.
+
+Write to make your reader smile.
+
 
 
 
