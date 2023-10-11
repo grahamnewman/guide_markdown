@@ -68,7 +68,10 @@ An exclamation in an email should only be used if there’s a birth, a promotion
   All copy must include FAB: 
 - Feature. 
 - Advantage. 
-- Benefit. 
+- Benefit.
+
+Connect to users lifestyles and values formed by trends and changes in **political, **environmental, **social, **technological and **economic factors. To invoke a handy acronym: PESTE.
+
 
 
 
