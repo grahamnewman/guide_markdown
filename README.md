@@ -1,6 +1,9 @@
 ## Archanawat style guide | writing
 Initial commit 11 October
 
+Our style guide serves as a comprehensive blueprint, ensuring consistency and coherence in written and visual communication. In writing, it establishes guidelines for grammar, tone, and formatting, fostering clarity and professionalism. In branding, it defines logo usage, color schemes, and typography, ensuring a unified and recognizable identity across all platforms. By providing clear directives, a style guide enhances brand integrity and fosters a cohesive, compelling narrative.
+***
+
 - Concrete and simple.
 - Short sentences.
 - Use short common words of the English language that everybody knows.
