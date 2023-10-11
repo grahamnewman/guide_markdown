@@ -58,6 +58,8 @@ Keep it simple.
 
 An exclamation in an email should only be used if there’s a birth, a promotion or an engagement. Not to say that you have a meeting on Thursday.
 
+***
+
 ### Writing style guidance
 
 1. British English, not American English with the exception of center, not centre. There’s no need to be too puritanical about this.
