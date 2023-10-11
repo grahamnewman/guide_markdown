@@ -65,7 +65,7 @@ An exclamation in an email should only be used if there’s a birth, a promotion
 - Credible. 
 - Compelling.
 
-1. All copy must include FAB: 
+  All copy must include FAB: 
 - Feature. 
 - Advantage. 
 - Benefit. 
