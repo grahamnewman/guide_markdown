@@ -8,7 +8,7 @@ Initial commit 11 October
 - Avoid metaphors and cliches.
 - Active sentences.
 - Hit the full stop button as often as you can.
-- 
+
 What are your audience's needs? Earn their time and attention that you can see in your mind's eye.
 Less of a chore, more pleasurable.
 
