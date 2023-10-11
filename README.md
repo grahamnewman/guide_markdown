@@ -28,7 +28,7 @@ Avoid the language of academics. Use ordinary speech.
 
 Full stops and short sentences. Avoid semicolons at all costs.
 
-Avoid _hopefully, _prestigious, _iconic, _get, _key, _major. They are overused.
+Avoid _hopefully_, _prestigious_, _iconic_, _get_, _key_, _major_. They are overused.
 
 Don't be formulaic with writing style. Be original and clear.
 
