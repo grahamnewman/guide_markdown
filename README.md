@@ -36,7 +36,7 @@ Don't use phrasings of the industry insiders and the overall in-group jargon.
 
 Simplify things all the time.
 
-Try to avoid starting a sentence with yet or but.
+Try to avoid starting a sentence with _yet_ or _but_.
 
 Originality is the premium. Come up with headlines and captions that are original.
 
