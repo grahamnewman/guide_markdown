@@ -50,6 +50,10 @@ We do not use the Oxford comma unless it clears up some ambiguity. The less punc
 
 Break any of these rules rather than do anything ugly or unclear.
 
+Write, do not use GPT.
+Keep it simple.
+
+An exclamation in an email should only be used if there’s a birth, a promotion or an engagement. Not to say that you have a meeting on Thursday.
 
 
 
