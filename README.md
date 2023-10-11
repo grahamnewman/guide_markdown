@@ -1,8 +1,7 @@
 # IDE style guide
 --
-Repo comitted 11 October 2023
+'Inital commmit 11 October'
 --
-
 # Headers
 
 ```
